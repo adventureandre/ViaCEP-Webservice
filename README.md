@@ -1,2 +1,2 @@
 # ViaCEP-Webservice
-Receber  dados do Cep 
+Recebe  dados do Cep 
